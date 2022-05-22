@@ -8,7 +8,7 @@
 
 Frontend snapshots
 
-![client](.\snapshots\todo.png)
+![client](./snapshots/todo.png)
 
 This is the demo of todo list by vue3 and gin.
 
